@@ -26,25 +26,16 @@
 4. Commit : 
             git add .
             git commit -m "message"
-
    <br>
-
-5. Push :
+5.Push :
            git push origin
 <br>
-
-
-7. Create PR to main
-
-
+6. Create PR to main
 <br>
 
-
-
 Contributor Rules : 
-
+<br>
 DO: create branches, pull main, test code
+<br>
 DON’T: commit to main, force push, break flow
-
-
 </h3>
